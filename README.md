@@ -1,6 +1,6 @@
 <div align='center'>
 
-# Merging Models on the Fly Without Retraining: A Sequential Approach to Scalable Continual Model Merging
+# Merging Models on the Fly Without Retraining: <br/> A Sequential Approach to Scalable Continual Model Merging
 
 [![arXiv](https://img.shields.io/badge/arXiv-2501.09522-b31b1b.svg)](https://arxiv.org/abs/2501.09522)
 
