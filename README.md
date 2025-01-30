@@ -2,8 +2,6 @@
 
 # Merging Models on the Fly Without Retraining: <br/> A Sequential Approach to Scalable Continual Model Merging
 
-[![arXiv](https://img.shields.io/badge/arXiv-2501.09522-b31b1b.svg)](https://arxiv.org/abs/2501.09522)
-
 </div>
 
 ## Abstract
@@ -43,3 +41,7 @@ The project is structured as follows:
 
 The experiments are conducted on the CLIP-ViT models.
 The bash scripts to run the experiments are in the [`examples/opcm`](examples/opcm) folder.
+
+## Acknowledgements
+
+This project is based on [FusionBench](https://github.com/tanganke/fusion_bench).
