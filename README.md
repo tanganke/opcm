@@ -14,3 +14,5 @@ The experiments are conducted on the CLIP-ViT models.
 The bash scripts to run the experiments are in the [`examples/opcm`](examples/opcm) folder.
 
 ## Acknowledgements
+
+This project is based on [FusionBench](https://github.com/tanganke/fusion_bench).
