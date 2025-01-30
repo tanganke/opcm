@@ -1,4 +1,0 @@
-sun397:
-  _target_: datasets.load_dataset
-  path: tanganke/sun397
-  split: train

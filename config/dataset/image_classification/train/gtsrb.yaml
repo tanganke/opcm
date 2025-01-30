@@ -1,4 +1,0 @@
-gtsrb:
-  _target_: datasets.load_dataset
-  path: tanganke/gtsrb
-  split: train

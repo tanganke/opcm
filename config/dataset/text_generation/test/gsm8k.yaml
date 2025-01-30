@@ -1,5 +1,0 @@
-gsm8k:
-  _target_: datasets.load_dataset
-  path: openai/gsm8k
-  name: main
-  split: test

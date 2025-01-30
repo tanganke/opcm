@@ -1,3 +1,0 @@
-defaults:
-  - CLIPVisionModelPool@: _template
-  - /model/clip-vit@models: clip-vit-base-patch32_eight_tasks

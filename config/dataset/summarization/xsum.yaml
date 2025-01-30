@@ -1,3 +1,0 @@
-xsum:
-  _target_: datasets.load_dataset
-  path: EdinburghNLP/xsum

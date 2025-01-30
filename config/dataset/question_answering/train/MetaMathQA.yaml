@@ -1,4 +1,0 @@
-MetaMathQA:
-  _target_: datasets.load_dataset
-  path: meta-math/MetaMathQA
-  split: train

@@ -1,4 +1,0 @@
-eurosat:
-  _target_: datasets.load_dataset
-  path: tanganke/eurosat
-  split: train
